@@ -1,0 +1,9 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\bin\Release\Win_frm_Tcp_client.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\bin\Release\Win_frm_Tcp_client.pdb
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\Win_frm_Tcp_client.Client.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\Win_frm_Tcp_client.Properties.Resources.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\Win_frm_Tcp_client.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\Win_frm_Tcp_client\obj\x86\Release\Win_frm_Tcp_client.pdb

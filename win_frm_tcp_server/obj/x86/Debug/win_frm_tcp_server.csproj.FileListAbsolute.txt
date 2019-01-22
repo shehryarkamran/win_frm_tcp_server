@@ -1,0 +1,9 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\bin\Debug\win_frm_tcp_server.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\bin\Debug\win_frm_tcp_server.pdb
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\win_frm_tcp_server.Tcp_seerver.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\win_frm_tcp_server.Properties.Resources.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\win_frm_tcp_server.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\win_frm_tcp_server.pdb
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\win_frm_tcp_server\win_frm_tcp_server\obj\x86\Debug\GenerateResource.write.1.tlog
